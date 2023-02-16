@@ -1,4 +1,4 @@
-# Detection_of_Histopatholigical_Cancer_Pytorch
+# **Detection_of_Histopathological_Cancer_Pytorch**
 
 ### **Goal:  To detect the cancerous sample from the histopathological images** 
 
